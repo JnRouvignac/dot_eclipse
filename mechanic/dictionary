@@ -18,11 +18,13 @@ authzid
 backend
 backends
 behaviour
+callable
 callbacks
 cancelable
 changelog
 changenumber
 changenumbers
+changetype
 cn
 coherency
 compliant
@@ -40,6 +42,7 @@ dn
 downloaded
 dseecompat
 enum
+etag
 eval
 extop
 factorize
@@ -54,7 +57,9 @@ heartbeat
 heartbeats
 hostname
 hostnames
+idempotent
 init
+instantiable
 inter
 iterable
 hassubordinates
@@ -65,6 +70,7 @@ ldap
 ldif
 lockdown
 loginfo
+lookthrough
 lowercase
 mac
 malformed
@@ -104,7 +110,10 @@ refactor
 refactoring
 refactorings
 refactors
+rollback
 samba
+scalability
+schedulable
 searchable
 selfwrite
 sn
@@ -126,12 +135,14 @@ targetfilter
 targetscope
 testcases
 threadsafe
+throwable
 timestamp
 topo
 transactional
 trustmanager
 truststore
 uid
+uppercase
 unbind
 unescaped
 unhandled
@@ -148,6 +159,7 @@ userattr
 userdn
 validator
 validators
+versioning
 wildcard
 workflow
 workflows
