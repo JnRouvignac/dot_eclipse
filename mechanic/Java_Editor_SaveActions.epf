@@ -3,7 +3,7 @@
 # @task_type LASTMOD
 #
 # Created by the Workspace Mechanic Preference Recorder
-#Wed Feb 20 12:06:40 CET 2013
+#Wed Oct 16 15:42:38 CEST 2019
 file_export_version=3.0
 /instance/org.eclipse.jdt.ui/editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.convert_to_enhanced_for_loop=true
@@ -22,5 +22,12 @@ file_export_version=3.0
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unnecessary_nls_tags=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_imports=true
 /instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_local_variables=true
-/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_members=false
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_private_constructors=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_redundant_modifiers=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_redundant_semicolons=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_redundant_type_arguments=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_fields=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_members=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_methods=true
+/instance/org.eclipse.jdt.ui/sp_cleanup.remove_unused_private_types=true
 
