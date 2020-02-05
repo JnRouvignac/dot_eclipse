@@ -1,0 +1,8 @@
+# @title Java - Editor - Content Assist - type filters
+# @description Settings for Eclipse Preferences > Java > Editor > Content Assist > type filters
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Wed Feb 05 17:31:01 CET 2020
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.typefilter.enabled=antlr.*;com.sun.*;java.awt.*;javax.swing.*;org.omg.*;sun.*;
