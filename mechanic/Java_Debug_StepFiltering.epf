@@ -6,5 +6,5 @@
 #Fri Feb 22 11:58:47 CET 2013
 file_export_version=3.0
 /instance/org.eclipse.debug.core/org.eclipse.debug.core.USE_STEP_FILTERS=true
-/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.active_filters=com.ibm.*,com.sun.*,java.*,javax.*,jrockit.*,org.omg.*,org.testng.*,sun.*,sunw.*,java.lang.ClassLoader
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.active_filters=com.google.*,com.ibm.*,com.sun.*,io.reactivex.*,java.*,javax.*,jrockit.*,net.bytebuddy.*,org.forgerock.opendj.server.config.server.*,org.glassfish.*,org.hamcrest.*,org.mockito.*,org.objenesis.*,org.omg.*,org.testng.*,sun.*,sunw.*,java.lang.ClassLoader,org.forgerock.util.promise.PromiseImpl,org.forgerock.util.promise.Promises
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.inactive_filters=
